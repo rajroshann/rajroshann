@@ -31,7 +31,7 @@
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=rajroshann&show_icons=true&theme=radical)  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rajroshann&theme=radical)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rajroshan&layout=compact&theme=radical)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rajroshann&layout=compact&theme=radical)  
 
 ---
 
