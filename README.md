@@ -29,9 +29,9 @@
 ---
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)  
+![](https://github-readme-stats.vercel.app/api?username=rajroshann&show_icons=true&theme=radical)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=rajroshann&theme=radical)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rajroshan&layout=compact&theme=radical)  
 
 ---
 
