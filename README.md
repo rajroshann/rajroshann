@@ -25,7 +25,7 @@ M.Tech in Data Science & Engineering @ NIT Silchar | Aiming for AI/ML Engineer r
 ---
 
 ## Projects
-- **[ReliefIQ](https://github.com/rajroshann/ReliefIQ)** — Full-stack app predicting loan/mortgage complaint outcomes from 45k CFPB records; NLP + Logistic Regression, SHAP explanations via an LLM, JWT auth, tested + CI'd + Dockerized, deployed on Render.
+- **[ReliefIQ](https://github.com/rajroshann/loan-complaint-nlp)** — Full-stack app predicting loan/mortgage complaint outcomes from 45k CFPB records; NLP + Logistic Regression, SHAP explanations via an LLM, JWT auth, tested + CI'd + Dockerized, deployed on Render.
 - **[Employee Attrition Prediction](https://github.com/rajroshann/employee-attrition-prediction)** — XGBoost + SHAP explainability app with an interactive dashboard and PDF report generation, deployed on Render.
 - **[Student Performance Prediction](https://github.com/rajroshann/student-performance-prediction-)** — Random Forest model served via Flask with a Chart.js-powered UI, CI/CD to Render.
 - **[my-nike-frontend](https://github.com/rajroshann/my-nike-frontend_)** — E-commerce storefront UI (React, Vite, Tailwind) for browsing, filtering, and cart management.
